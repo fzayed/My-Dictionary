@@ -1,6 +1,7 @@
 My Dictionary
 
 
+
 Description
 
 This is an application of a dictionary where the user can search for an existing word’s definition, add a new word, edit an existing definition, and delete a word.
