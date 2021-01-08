@@ -9,7 +9,7 @@ This is an application of a dictionary where the user can search for an existing
 
 Usage
 
-After running the code, a window will pop up showing the dictionary. For the best performance, the user should maximize the window.
+After running the code, a window will pop up showing the dictionary.
 
 Search a word
 
