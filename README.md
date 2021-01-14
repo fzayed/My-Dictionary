@@ -6,6 +6,8 @@ Description
 
 This is an application of a dictionary where the user can search for an existing word’s definition, add a new word, edit an existing definition, and delete a word.
 
+![dictionary](https://user-images.githubusercontent.com/55934281/104652217-c5426000-5686-11eb-9755-7a455b8f9f63.png)
+
 
 Usage
 
